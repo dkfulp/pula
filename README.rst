@@ -42,13 +42,13 @@ Development
 
 This module is meant to be a community project and we are looking for 
 user input on new functions that can be added.
-To request a new feature, please log an issue at `Github Issues <https://github.com/paramiko/paramiko/issues/>`_ with the label of **enhancement**.
+To request a new feature, please log an issue at `Github Issues <https://github.com/dkfulp/pula/issues>`_ with the label of **enhancement**.
 
 
 Bugs & Support
 --------------
 
-To report bugs that occur, please log an issue at `Github Issues <https://github.com/paramiko/paramiko/issues/>`_ with the label of **bug**.
+To report bugs that occur, please log an issue at `Github Issues <https://github.com/dkfulp/pula/issues>`_ with the label of **bug**.
 
 
 
