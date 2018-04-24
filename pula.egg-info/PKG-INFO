@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: pula
+Version: 1.0.0.dev1
+Summary: Convienent add-on library for Python, providing frequently used functions.
+Home-page: https://github.com/dkfulp/pula
+Author: dkfulp
+Author-email: dkfulp@coastal.edu
+License: MIT
+Description: UNKNOWN
+Keywords: convenient scripting tools
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
