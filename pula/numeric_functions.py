@@ -28,3 +28,13 @@ def is_integer(num):
 	except:
 		return False
 		
+
+def string_to_numeric_array(string):
+	converted_array = []
+	positions = re.findall('\d+',string)
+	for j in range(len(positions)):
+		if is_number(positions[j]) == True:
+			converted_array.append(int(positions[j]))
+		else:
+			converted_array.append(positions[j])
+	return converted_array
