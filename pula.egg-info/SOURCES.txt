@@ -1,7 +1,10 @@
+README.rst
 setup.cfg
 setup.py
 pula/__init__.py
+pula/data_structures.py
 pula/file_functions.py
+pula/hack_functions.py
 pula/numeric_functions.py
 pula.egg-info/PKG-INFO
 pula.egg-info/SOURCES.txt

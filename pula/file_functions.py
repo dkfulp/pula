@@ -31,7 +31,7 @@ def get_file_names_in_directory(directory):
 #Function that takes in a directory and will print all file paths of the directory.
 #This also cascades and will not stop at top directory.
 def print_file_paths_in_directory(directory):
-	file_paths = get_filePaths_in_directory(directory)
+	file_paths = get_file_paths_in_directory(directory)
 	for path in file_paths:
 		print("File Path = {}".format(path))
 
@@ -41,7 +41,7 @@ def print_file_paths_in_directory(directory):
 def print_file_names_in_directory(directory):
 	file_names = get_file_names_in_directory(directory)
 	for name in file_names:
-		print("File Name = %s".format(name))
+		print("File Name = {}".format(name))
 	
 
 #Function: get_line_contents_and_write(filePaths, csv)

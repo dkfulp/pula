@@ -12,7 +12,7 @@ their problems easier as well as more efficient.
 
 
 setup(name='pula',
-      version='1.0.0.dev3',
+      version='1.0.0.dev4',
       description='Convienent add-on library for Python, providing frequently used functions.',
       long_description= long_description_text,
       url='https://github.com/dkfulp/pula',
